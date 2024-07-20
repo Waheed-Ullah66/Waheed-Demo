@@ -1,2 +1,2 @@
 # Waheed-Demo
-This is first Git practice.
+This is first Git Repository.
